@@ -2,8 +2,4 @@
 This repository contains information that was generall found helpful while 
 assisting with assignments. It will be updated as needed.
 
-# Table of Contents
-  1. [General Coding Terminology](Terminology/Terminology.md)
-  2. [R Introduction](R/Intro.md)
-
-## References
+General info has been moved to this repository's [wiki](https://github.com/Jonathan-Chandra/help-me/wiki)
